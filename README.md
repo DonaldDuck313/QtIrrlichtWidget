@@ -91,3 +91,6 @@ Also, if you're using Windows, don't forget to copy Irrlicht.dll to the build di
 * `static void showMessageBox(QWidget *parent, const QString &title, const QString &text, QMessageBox::Icon icon = QMessageBox::Information, QFlags<QMessageBox::StandardButton> buttons = QMessageBox::Ok)`
 
     Same as `showMessageBox([](){}, parent, title, text, icon, buttons)`.
+
+# Example
+You can download an example Qt project which uses the Irrlicht widget [here](https://github.com/DonaldDuck313/QtIrrlichtWidget/tree/main/example).
