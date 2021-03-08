@@ -1,6 +1,6 @@
 /*
  * Irrlicht widget for Qt Example
- * Version 1.3
+ * Version 1.0
  * This example does the same thing as Irrlicht's Hello World example, but using Qt.
  * For detailed explanations of what the Irrlicht commands do, see Irrlicht's Hello World example.
  */
